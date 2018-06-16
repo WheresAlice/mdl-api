@@ -1,0 +1,25 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (2.1.0)
+    kramdown (1.17.0)
+    mdl (0.4.0)
+      kramdown (~> 1.12, >= 1.12.0)
+      mixlib-cli (~> 1.7, >= 1.7.0)
+      mixlib-config (~> 2.2, >= 2.2.1)
+    mixlib-cli (1.7.0)
+    mixlib-config (2.2.8)
+      tomlrb
+    rack (2.0.5)
+    tomlrb (1.2.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  json
+  mdl
+  rack
+
+BUNDLED WITH
+   1.16.0
