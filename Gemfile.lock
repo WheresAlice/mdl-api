@@ -10,7 +10,7 @@ GEM
     mixlib-cli (1.7.0)
     mixlib-config (2.2.8)
       tomlrb
-    rack (2.0.5)
+    rack (2.0.6)
     tomlrb (1.2.7)
 
 PLATFORMS
